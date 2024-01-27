@@ -1,0 +1,28 @@
+p {
+  color: red;
+  font-size: 20px;
+}
+.blue {
+  color: blue;
+  background-color: blueviolet;
+}
+#yellow {
+  color: yellow;
+}
+.center {
+  display: block;
+  margin: 0 auto;
+}
+#button-go,
+#button-back {
+  border: solid 1px black;
+}
+#link {
+  font-size: 30px;
+}
+.font {
+  font-size: 30px;
+}
+header {
+  background-color: red;
+}
